@@ -1,24 +1,24 @@
 
-// работаем в современном режиме
-"use strict";
+// // работаем в современном режиме
+// "use strict";
 
 
-// let number = 5;
-// const leftBorderWidth = 1;
+// // let number = 5;
+// // const leftBorderWidth = 1;
 
-// // обьект
+// // // обьект
 
-// const obt = {
-//     name: 'Den',
-//     age: 23
-// };
+// // const obt = {
+// //     name: 'Den',
+// //     age: 23
+// // };
 
-// console.log(obt.name);
+// // console.log(obt.name);
 
-const result = confirm('Ты тут?');
+// const result = confirm('Ты тут?');
 
-// полезные ссылки
-// GitHowto
+// // полезные ссылки
+// // GitHowto
 
 
 
